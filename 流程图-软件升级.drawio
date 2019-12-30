@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-30T06:28:52.456Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="cyHd1ldsuT1YIYAiACKx" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T06:29:02.982Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="w9ozm59-_aEIKx_EBn1b" version="12.4.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2130" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -17,7 +17,7 @@
           <mxGeometry x="150" y="60" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6kuVStWCc_NQh1pCLCfk-6" value="设备列表模块" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="90" width="120" height="60" as="geometry"/>
+          <mxGeometry x="10" y="80" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6kuVStWCc_NQh1pCLCfk-10" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6kuVStWCc_NQh1pCLCfk-8" target="6kuVStWCc_NQh1pCLCfk-9" edge="1">
           <mxGeometry relative="1" as="geometry"/>
