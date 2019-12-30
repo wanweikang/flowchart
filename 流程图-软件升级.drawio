@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-30T06:35:16.306Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="1LP84J-d3VyruQXJzXG8" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-30T07:14:09.553Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="dXFaibMWhYHGGLdY9zcq" version="12.4.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1303" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,36 +22,34 @@
         <mxCell id="6kuVStWCc_NQh1pCLCfk-10" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6kuVStWCc_NQh1pCLCfk-8" target="6kuVStWCc_NQh1pCLCfk-9" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="3z7rhhH2pB_f4L7QTHoq-53" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;" edge="1" parent="1" source="6kuVStWCc_NQh1pCLCfk-8" target="3z7rhhH2pB_f4L7QTHoq-52">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-53" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6kuVStWCc_NQh1pCLCfk-8" target="3z7rhhH2pB_f4L7QTHoq-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="359"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6kuVStWCc_NQh1pCLCfk-8" value="七牛云key&lt;br&gt;是否存在?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="320" width="140" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="3z7rhhH2pB_f4L7QTHoq-54" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-52" target="6kuVStWCc_NQh1pCLCfk-16">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="3z7rhhH2pB_f4L7QTHoq-52" value="apk升级表是否&lt;br&gt;存在记录?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="130" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="6kuVStWCc_NQh1pCLCfk-19" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6kuVStWCc_NQh1pCLCfk-16" edge="1">
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-54" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-52" target="6kuVStWCc_NQh1pCLCfk-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905.86" y="360" as="targetPoint"/>
+            <mxPoint x="685.3333333333335" y="359.3333333333335" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6kuVStWCc_NQh1pCLCfk-21" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6kuVStWCc_NQh1pCLCfk-16" target="6kuVStWCc_NQh1pCLCfk-20" edge="1">
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-77" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-52" target="3z7rhhH2pB_f4L7QTHoq-62">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="6kuVStWCc_NQh1pCLCfk-16" value="是否升级成功?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685.86" y="320" width="140" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="6kuVStWCc_NQh1pCLCfk-26" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6kuVStWCc_NQh1pCLCfk-20" edge="1" target="3z7rhhH2pB_f4L7QTHoq-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905.86" y="520" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-52" value="apk升级表是否&lt;br&gt;存在非升级成功记录?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="150" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="6kuVStWCc_NQh1pCLCfk-32" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6kuVStWCc_NQh1pCLCfk-20" target="6kuVStWCc_NQh1pCLCfk-31" edge="1">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-80" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6kuVStWCc_NQh1pCLCfk-20" target="3z7rhhH2pB_f4L7QTHoq-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="917.9300000000003" y="515" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6kuVStWCc_NQh1pCLCfk-20" value="判断消息表的消息&lt;br&gt;已存在?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="673.79" y="475" width="164.14" height="80" as="geometry"/>
@@ -65,17 +63,22 @@
         <mxCell id="6kuVStWCc_NQh1pCLCfk-31" value="判定消息状态" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="685.86" y="605" width="140" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="6kuVStWCc_NQh1pCLCfk-9" value="1.保存七牛元key值同时apk升级表新增一条记录,状态为预处理&lt;br&gt;2.消息表新增消息,消息状态为预处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="498.33" width="160" height="106.67" as="geometry"/>
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="6kuVStWCc_NQh1pCLCfk-9" target="3z7rhhH2pB_f4L7QTHoq-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="504"/>
+              <mxPoint x="390" y="399"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6kuVStWCc_NQh1pCLCfk-9" value="保存七牛元key值" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="145" y="470" width="130" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="3z7rhhH2pB_f4L7QTHoq-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-14" target="3z7rhhH2pB_f4L7QTHoq-29">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="3z7rhhH2pB_f4L7QTHoq-14" value="发布升级消息事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="730" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="6kuVStWCc_NQh1pCLCfk-23" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="905.86" y="335" width="80" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="6kuVStWCc_NQh1pCLCfk-41" value="在线" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6kuVStWCc_NQh1pCLCfk-40" target="6kuVStWCc_NQh1pCLCfk-8" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -95,7 +98,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="6kuVStWCc_NQh1pCLCfk-47" value="重发升级消息事件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="730" width="120" height="60" as="geometry"/>
+          <mxGeometry x="453.75" y="730" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3z7rhhH2pB_f4L7QTHoq-2" value="处理失败" style="endArrow=classic;html=1;fontFamily=Garamond;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6kuVStWCc_NQh1pCLCfk-31" target="3z7rhhH2pB_f4L7QTHoq-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -149,12 +152,6 @@
         <mxCell id="3z7rhhH2pB_f4L7QTHoq-46" value="服务器监听到广播消息" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="600" y="1010" width="108" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3z7rhhH2pB_f4L7QTHoq-41" value="" style="endArrow=classic;html=1;fontFamily=Garamond;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6kuVStWCc_NQh1pCLCfk-9" target="3z7rhhH2pB_f4L7QTHoq-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="590" as="sourcePoint"/>
-            <mxPoint x="60" y="1180" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3z7rhhH2pB_f4L7QTHoq-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-44" target="3z7rhhH2pB_f4L7QTHoq-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="900" as="targetPoint"/>
@@ -166,19 +163,16 @@
         <mxCell id="3z7rhhH2pB_f4L7QTHoq-51" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="875" width="80" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="3z7rhhH2pB_f4L7QTHoq-61" value="否" style="endArrow=classic;html=1;fontFamily=Garamond;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-52" target="3z7rhhH2pB_f4L7QTHoq-62">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-70" y="630" as="sourcePoint"/>
-            <mxPoint x="425" y="490" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3z7rhhH2pB_f4L7QTHoq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-62">
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;" edge="1" parent="1" source="3z7rhhH2pB_f4L7QTHoq-62" target="3z7rhhH2pB_f4L7QTHoq-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="730" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3z7rhhH2pB_f4L7QTHoq-62" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; white-space: normal&quot;&gt;消息表新增消息,消息状态为预处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
-          <mxGeometry x="360" y="470" width="125" height="90" as="geometry"/>
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-62" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; white-space: normal&quot;&gt;1.apk升级表新增一条记录,状态为预处理&lt;br&gt;2.消息表新增消息,消息状态为预处理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="570" width="125" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="3z7rhhH2pB_f4L7QTHoq-81" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="490" width="80" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
